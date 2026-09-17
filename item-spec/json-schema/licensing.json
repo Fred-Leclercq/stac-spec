@@ -6,7 +6,7 @@
   "properties": {
     "license": {
       "type": "string",
-      "pattern": "^[\\w\\-\\.\\+]+$"
+      "pattern": "^[\\w\\-\\.\\+\\s]+$",
     }
   }
 }
